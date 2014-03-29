@@ -1,0 +1,9 @@
+{"extName": {
+   "message": "Save Image by Date",
+   "description": "Extension name"},
+ "extDesc": {
+   "message": "Save a image with filename that is the the number of milliseconds elapsed since 1 January 1970 00:00:00 UTC.",
+   "description": "Extension description"},
+ "openContextMenuTitle": {
+   "message": "Save Image by Date",
+   "description": "context menu button text"}}
